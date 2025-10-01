@@ -1,4 +1,4 @@
-# Dynamic Difficulty in Video Games
+# Machine Learning and Player Engagement
 ### Integrating Deep Neural Networks into Games to Promote Dynamic Difficulty & Increase Player Engagement
 One of the struggles of modern game development lies in finding different ways to keep their players engaged. Instead of designing new game mechanics that could fail or not resonate with the players, a different approach can focus on designing the game to learn the player. 
 This project proposed increased integration of true enemy AI through Deep Neural Networks (DNNs) and Reinforcement Learning (RL). 
